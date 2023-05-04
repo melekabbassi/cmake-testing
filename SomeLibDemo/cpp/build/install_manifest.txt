@@ -1,0 +1,2 @@
+/usr/local/lib/liboctopusmath.a
+/usr/local/include/octopusmath/adder.h

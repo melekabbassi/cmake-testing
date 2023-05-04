@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboctopusmath.a CMakeFiles/octopusmath.dir/adder.cpp.o
+/usr/bin/ranlib liboctopusmath.a

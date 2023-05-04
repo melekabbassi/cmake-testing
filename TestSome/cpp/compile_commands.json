@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/octopus/Documents/dev/Testing/cmake/src/TestSome/cpp",
+  "command": "/usr/bin/c++    -o CMakeFiles/testsome.dir/main.cpp.o -c /home/octopus/Documents/dev/Testing/cmake/src/TestSome/cpp/main.cpp",
+  "file": "/home/octopus/Documents/dev/Testing/cmake/src/TestSome/cpp/main.cpp"
+}
+]
